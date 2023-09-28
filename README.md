@@ -2,8 +2,8 @@
 Currently working Machine Learning Internship tasks.
 
 Tasks-
--Chat Bot
--Real-Time Face Mask Detection
--Boston House Price Predictions
--Sign Language Classification      
+1-Chat Bot
+2-Face Mask Detection
+3-Boston House Price Predictions
+4-Sign Language Classification      
 
